@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
